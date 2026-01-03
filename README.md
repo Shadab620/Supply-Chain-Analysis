@@ -1,5 +1,5 @@
 
-## Supply Chain Analysis Dashboard
+## Supply Chain Analysis 
 📌 Project Overview
 
 This project presents an end-to-end Supply Chain Analysis using SQL, Excel, and Power BI. The goal is to analyze supply chain performance by evaluating costs, revenue, profit margins, supplier efficiency, lead times, shipping costs, and defect rates through an interactive dashboard.
