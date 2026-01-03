@@ -96,6 +96,8 @@ Monitor shipping carriers to control logistics costs
 
 Use dashboards regularly for performance tracking
 
+(https://github.com/Shadab620/Supply-Chain-Analysis/blob/main/Screenshot%202026-01-03%20105852.png)
+
 
 
 
